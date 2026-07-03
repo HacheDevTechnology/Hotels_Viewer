@@ -1,0 +1,6 @@
+{
+  "name": "Hoteles Reales MX",
+  "description": "Buscador inteligente de hoteles en México y LATAM. Adapta su diseño e integra la infraestructura en tiempo real de Stay22 con servicios locales VIP de DMC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
